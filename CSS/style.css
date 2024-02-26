@@ -1,0 +1,20 @@
+body{
+    padding-bottom: 500px;
+}
+h3{
+    color: green;
+}
+/* Comentário */
+
+.paragraph{
+    background-color: #000;
+    color: aqua;
+    padding: 2px;
+}
+
+#exclusive-title{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    font-size: 40px;
+}
